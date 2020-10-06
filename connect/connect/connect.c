@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-	printf("upload on github");
+	printf("upload on github!");
 }
